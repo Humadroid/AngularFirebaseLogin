@@ -20,4 +20,4 @@ export const environment = {
   }
 };
 ```
-Save the changes and start the server using `npm start`. You can find the detailed tutorial on how to make a login page using Angular and Firebase on CodeHandbook.
+Save the changes and start the server using `npm start`. You can find the detailed tutorial on [how to make a login page using Angular and Firebase on CodeHandbook](https://codehandbook.org/how-to-make-login-page-using-angular-and-firebase/).
